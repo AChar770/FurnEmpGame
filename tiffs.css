@@ -1,0 +1,20 @@
+p {
+  font-family: 'Trebuchet MS';
+  font-size: 18pt;
+}
+body {background-color: rgb(127, 169, 55);}
+
+article {background-color: antiquewhite;}
+
+header {
+  color: rgb(78, 95, 19);
+  font-style: italic;
+}
+
+button {
+    background-color: darkslategray; 
+    font-size: xx-large;
+    height: 100%;
+    width: 89%;
+}
+
