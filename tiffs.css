@@ -7,8 +7,10 @@ body {background-color: rgb(127, 169, 55);}
 article {background-color: antiquewhite;}
 
 header {
-  color: rgb(78, 95, 19);
+  color: rgb(40, 42, 35);
   font-style: italic;
+  font-weight: 300;
+  font-size: xx-large;
 }
 
 button {
@@ -18,3 +20,17 @@ button {
     width: 89%;
 }
 
+.price {color: green;}
+
+* {
+  margin: 5%;
+  padding: 1%;
+  box-sizing: border-box;
+}
+
+ .special-word {
+        font-family: "Arial Black", sans-serif;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 1.2em;
+    }
